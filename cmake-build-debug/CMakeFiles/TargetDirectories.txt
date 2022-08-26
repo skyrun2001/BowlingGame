@@ -1,0 +1,3 @@
+/Users/kentix/CLionProjects/BowlingGame/cmake-build-debug/CMakeFiles/BowlingGame.dir
+/Users/kentix/CLionProjects/BowlingGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kentix/CLionProjects/BowlingGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
